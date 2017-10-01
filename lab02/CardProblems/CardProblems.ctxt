@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CardProblems
+comment0.text=\n\ CardProblems\ implements\ Lab02\ of\ CCPS109\ in\ FA2017.\n\n\ @author\ \ Cipher\n\ @version\ 20171001\n
+comment1.params=c
+comment1.target=int\ getRank(char)
+comment2.params=hand
+comment2.target=boolean\ hasFlush(java.lang.String)
+comment3.params=hand
+comment3.target=boolean\ hasFourOfAKind(java.lang.String)
+comment4.params=hand
+comment4.target=boolean\ hasFourCardBadugi(java.lang.String)
+numComments=5
