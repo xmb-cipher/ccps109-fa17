@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MoreCardProblems
+comment0.text=\n\ Write\ a\ description\ of\ class\ MoreCardProblems\ here.\n\n\ @author\ \ Cipher\n\ @version\ 20171001\n
+comment1.params=hand
+comment1.target=int\ bridgePointCount(java.lang.String)
+comment2.params=hand
+comment2.target=int\ countDeadwood(java.lang.String)
+comment3.params=hand
+comment3.target=java.lang.String\ bridgeHandShape(java.lang.String)
+comment4.params=hand
+comment4.target=boolean\ hasFullHouse(java.lang.String)
+numComments=5

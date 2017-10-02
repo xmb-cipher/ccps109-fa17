@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TestMoreCardProblems
+comment1.params=rng\ len
+comment1.target=java.lang.String\ createHand(java.util.Random,\ int)
+comment2.params=
+comment2.target=void\ testHasFullHouse()
+comment3.params=
+comment3.target=void\ testBridgePointCount()
+comment4.params=
+comment4.target=void\ testBridgeHandShape()
+comment5.params=
+comment5.target=void\ testCountDeadwood()
+numComments=6
