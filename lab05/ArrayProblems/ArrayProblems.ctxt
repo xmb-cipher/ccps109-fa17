@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ArrayProblems
+comment0.text=\n\ Implementation\ of\ Lab05\ of\ CCPS109-FA17.\n\n\ @author\ \ Cipher\n\ @version\ 20171004\n
+comment1.params=a
+comment1.target=int[]\ everyOther(int[])
+comment2.params=a
+comment2.target=int\ countInversions(int[])
+comment3.params=a
+comment3.target=void\ squeezeLeft(int[])
+comment4.params=a
+comment4.target=int[]\ runDecode(int[])
+numComments=5
