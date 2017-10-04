@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TestStringProblems
+comment1.params=
+comment1.target=void\ testCountWords()
+comment2.params=
+comment2.target=void\ testRemoveDuplicates()
+comment3.params=
+comment3.target=void\ testConvertToTitleCase()
+comment4.params=
+comment4.target=void\ testStretch()
+numComments=5

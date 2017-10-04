@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StringProblems
+comment0.text=\n\ Implementation\ of\ Lab03\ of\ CCPS109-FA17\n\n\ @author\ \ Cipher\n\ @version\ 20171003\n
+comment1.params=s
+comment1.target=java.lang.String\ removeDuplicates(java.lang.String)
+comment2.params=s
+comment2.target=int\ countWords(java.lang.String)
+comment3.params=s
+comment3.target=java.lang.String\ convertToTitleCase(java.lang.String)
+comment4.params=s\ n
+comment4.target=java.lang.String\ stretch(java.lang.String,\ int)
+numComments=5
