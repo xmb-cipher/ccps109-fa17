@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TestArrayShapeProblems
+comment1.params=
+comment1.target=void\ testCountUpsteps()
+comment2.params=
+comment2.target=void\ testSameStepShape()
+comment3.params=
+comment3.target=void\ testIsSawtooth()
+comment4.params=
+comment4.target=void\ testIsMountain()
+numComments=5
