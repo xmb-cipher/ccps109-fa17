@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TestMoreStringProblems
+comment1.params=rng
+comment1.target=char\ randomChar(java.util.Random)
+comment2.params=rng\ len
+comment2.target=java.lang.String\ buildString(java.util.Random,\ int)
+comment3.params=
+comment3.target=void\ testUniqueCharacters()
+comment4.params=
+comment4.target=void\ testCountOccurrences()
+comment5.params=
+comment5.target=void\ testCyclicLeftShift()
+comment6.params=
+comment6.target=void\ testParseInt()
+numComments=7

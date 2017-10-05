@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MoreStringProblems
+comment0.text=\n\ Write\ a\ description\ of\ class\ MoreStringProblems\ here.\n\n\ @author\ \ Cipher\n\ @version\ 20101004\n
+comment1.params=text
+comment1.target=java.lang.String\ uniqueCharacters(java.lang.String)
+comment2.params=text\ pattern
+comment2.target=int\ countOccurrences(java.lang.String,\ java.lang.String)
+comment3.params=s\ k
+comment3.target=java.lang.String\ cyclicLeftShift(java.lang.String,\ int)
+comment4.params=s
+comment4.target=int\ parseInt(java.lang.String)
+numComments=5
