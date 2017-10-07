@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TwoDeeArrayProblems
+comment0.text=\n\ Write\ a\ description\ of\ class\ TwoDeeArrayProblems\ here.\n\n\ @author\ \ Cipher\n\ @version\ 20171006\n
+comment1.params=a
+comment1.target=double[][]\ transpose(double[][])
+comment2.params=a
+comment2.target=double[]\ minValues(double[][])
+comment3.params=rows\ cols\ start
+comment3.target=int[][]\ zigzag(int,\ int,\ int)
+comment4.params=pts
+comment4.target=double\ maximumDistance(double[][])
+comment5.params=p1\ p2
+comment5.target=double\ distance(double[],\ double[])
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RecursionProblems
+comment0.text=\n\ Write\ a\ description\ of\ class\ RecursionProblems\ here.\n\n\ @author\ \ Cipher\n\ @version\ 20171006\n
+comment1.params=arr\ start\ end
+comment1.target=boolean\ allEqual(int[],\ int,\ int)
+comment2.params=src\ start\ tgt\ start2\ len
+comment2.target=void\ arraycopy(double[],\ int,\ double[],\ int,\ int)
+comment3.params=arr\ x\ start\ end
+comment3.target=boolean\ linearSearch(int[],\ int,\ int,\ int)
+comment4.params=arr\ start\ end
+comment4.target=void\ reverse(int[],\ int,\ int)
+comment5.params=arr\ start\ end
+comment5.target=void\ parityPartition(int[],\ int,\ int)
+comment6.params=arr\ start\ end
+comment6.target=int\ countRuns(int[],\ int,\ int)
+numComments=7

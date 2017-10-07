@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TestRecursionProblems
+comment1.params=
+comment1.target=void\ testAllEqual()
+comment2.params=
+comment2.target=void\ testArrayCopy()
+comment3.params=
+comment3.target=void\ testLinearSearch()
+comment4.params=a\ start\ end
+comment4.target=void\ iterativeReverse(int[],\ int,\ int)
+comment5.params=
+comment5.target=void\ testReverse()
+comment6.params=
+comment6.target=void\ testParityPartition()
+comment7.params=
+comment7.target=void\ countRuns()
+numComments=8
