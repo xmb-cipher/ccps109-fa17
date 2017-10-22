@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MidtermF17Test
+comment0.text=\n\ The\ test\ class\ MidtermF17Test.\n\n\ @author\ \ Ilkka\ Kokkarinen\n\ @version\ October\ 11,\ 2017\n
+comment1.params=rng\ len
+comment1.target=java.lang.String\ createHand(java.util.Random,\ int)
+comment2.params=
+comment2.target=void\ testAddThree()
+comment3.params=
+comment3.target=void\ testBeats()
+comment4.params=
+comment4.target=void\ testWinningCard()
+comment5.params=
+comment5.target=void\ testCountOccurrences()
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MidtermF17
+comment0.text=\n\ Write\ a\ description\ of\ class\ MidtermF17\ here.\n\n\ @author\ \ Cipher\n\ @version\ 20171022\n
+comment1.params=a\ b\ c\ d
+comment1.target=boolean\ addThree(int,\ int,\ int,\ int)
+comment2.params=c
+comment2.target=int\ getRank(char)
+comment3.params=c1\ c2\ trump
+comment3.target=boolean\ beats(java.lang.String,\ java.lang.String,\ char)
+comment4.params=trick\ trump
+comment4.target=java.lang.String\ winningCard(java.lang.String,\ char)
+comment5.params=text\ pattern
+comment5.target=int\ countOccurrences(java.lang.String,\ java.lang.String)
+comment6.params=number\ pattern
+comment6.target=int\ countOccurrences(int,\ int)
+numComments=7
