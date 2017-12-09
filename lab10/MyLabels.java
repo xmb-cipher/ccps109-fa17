@@ -24,6 +24,7 @@ public class MyLabels extends JPanel {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Q1");
         frame.setLayout(new FlowLayout());
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         
         frame.add(new MyLabels());
         frame.add(new MyLabels());

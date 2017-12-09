@@ -55,6 +55,7 @@ public class CardProblems
     
     
     public boolean hasFourCardBadugi(String hand) {
+        /*
         int[] rankCnt= new int[128];
         for(int i = 0; i < hand.length(); i += 2) {
             int rank = (int) hand.charAt(i);
@@ -74,5 +75,25 @@ public class CardProblems
         }
         
         return true;
+        */
+        
+        for (int i = 0; i < hand.length() - 2; i += 2) {
+            for (int j = i + 2; j < hand.length(); j += 2) {
+                if (hand.charAt(i) == hand.charAt(j)) {
+                    return false;
+                }
+            }
+        }
+        
+        for (int i = 1; i < hand.length() - 2; i += 2) {
+            for (int j = i + 2; j < hand.length(); j += 2) {
+                if (hand.charAt(i) == hand.charAt(j)) {
+                    return false;
+                }
+            }
+        }
+        
+        return true;
     }
+    
 }
